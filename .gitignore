@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# Secrets / env
+.env
+.env.*
+!.env.example
+
+# Google credentials
+*credentials*.json
+*service-account*.json
+*token*.json
+application_default_credentials.json
+
+# Backups
+*.bak
+*.bak_*
+main.py.bak_*
+requirements.txt.bak_*
+
+# Logs
+*.log
+logs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build
+build/
+dist/
+*.egg-info/
+patch_*.py
+remove_*_logs.py
