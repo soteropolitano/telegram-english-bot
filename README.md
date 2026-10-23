@@ -1,5 +1,8 @@
 # Telegram English Bot
 
+
+[![Capa do Telegram English Bot](linkedin-cover-telegram-english-bot.jpg)](linkedin-cover-telegram-english-bot.jpg)
+
 Bot no Telegram para ajudar em estudos de inglês. Ele corrige frases, transcreve áudios curtos e explica os erros em português, sugerindo uma versão mais natural em inglês.
 
 ## Visão geral
